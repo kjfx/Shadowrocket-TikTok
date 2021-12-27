@@ -1,7 +1,7 @@
 # Shadowrocket TikTok配置，iphone tiktok不拔卡教程，ios免拔卡
 
 - Shadowrocket TikTok视频教程：https://youtu.be/p4dYq7xEPbg <br>
-电报交流群：https://t.me/kejifx
+电报交流群：https://t.me/tiktokfx
 
 
 ### 操作步骤<br>
