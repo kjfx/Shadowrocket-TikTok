@@ -32,3 +32,8 @@
 默认是日本区，可以更改这行代码中的JP (?<=_region=)CN(?=&) JP 307<br>
 美国示例： (?<=_region=)CN(?=&) US 307<br>
 英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）
+
+### IOS看不了TikTok解决方法：
+1、下载TikTok 21.1.0版本使用。<br>
+2、插上手机卡，不要拔卡，看最新视频教程操作。<br>
+教程：https://www.youtube.com/c/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/search?query=tiktok%20ios<br>
